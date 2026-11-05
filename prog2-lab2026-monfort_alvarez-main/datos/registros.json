@@ -1,0 +1,34 @@
+[
+  {
+    "identificador": 1,
+    "nombre": "Probeta graduada",
+    "categoria": "Material volumétrico",
+    "cantidad": 10,
+    "activo": true,
+    "observaciones": "Revisar graduación"
+  },
+  {
+    "identificador": 2,
+    "nombre": "Balanza digital",
+    "categoria": "Instrumentos de medición",
+    "cantidad": 2,
+    "activo": true,
+    "observaciones": "Verificar calibración"
+  },
+  {
+    "identificador": 3,
+    "nombre": "Mechero Bunsen",
+    "categoria": "Material de calentamiento",
+    "cantidad": 0,
+    "activo": false,
+    "observaciones": "Sin unidades disponibles"
+  },
+  {
+    "identificador": 4,
+    "nombre": "Vaso de precipitados 250 mL",
+    "categoria": "Material de vidrio",
+    "cantidad": 10,
+    "activo": true,
+    "observaciones": "Vidrio borosilicato. Revisar antes de utilizar."
+  }
+]
